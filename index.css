@@ -1,0 +1,131 @@
+body {
+background-color: #022566;
+font-family: poppins,sans-serif;
+font-size: 16px;
+line-height: 24px;
+color: #627081;
+
+}
+
+img {
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
+    padding-bottom: 35px;
+    
+}
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    font-family:  'Segoe UI', Tahoma, sans-serif;;
+
+}
+.doz{
+	width: 70%;
+	height:30px;
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, sans-serif;
+	font-size: 21px;
+	color: #022566;
+	position: center;
+	margin: auto;
+	margin-top: 15px;
+}
+.dozz{
+	width: 380px;
+	height: 30px;
+	text-align: center;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+	font-size: 12px;
+	margin: auto;
+}
+.wrapper{
+	width: 375px;
+	height: 80px;
+	
+	
+}
+.somto{
+	height: auto;
+	width: 90%;
+	padding: 10px 10px;
+	
+	
+}
+h2 {
+    color: #1569C7;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+input{
+    color: rgb(170, 80, 80);
+    background-color: #F5F5F5;
+    border-radius: 5px;
+    padding: 12px;
+    width: 88%;
+	border: none;
+}
+p {
+	font-size:12px;
+	margin-left: 5px;
+	font-weight: bold;
+}
+.btn{
+	width:93%; background: #F5F5F5; height: 40px; border: none;
+	border-radius: 5px; margin:auto;
+	text-align:left;
+}
+.wrapper1{
+	text-align: center;
+	padding: 15px 5px;
+}
+.butt{
+	background: #0020C2;
+	width: 98%;
+	height: 40px;
+	color: white;
+	font-weight: bold;
+	text-align: center;
+	border: none;
+	border-radius: 10px; 
+	
+	
+}
+.card {
+display: flex;
+justify-content: center;
+flex-direction: column;
+min-height: auto;
+width: 28%;
+background-color:white;
+border-radius: 15px;
+
+padding: 13px;
+}
+
+.Link {
+	text-align: center;
+	font-family: 'Segoe UI', Tahoma, sans-serif;
+	color: #fff !important;
+	padding-top: 20px;
+}
+ a{
+	color: #fff !important;
+	text-decoration: none;
+}
+
+
+.inputcontrol {
+    color: rgb(170, 80, 80);
+    background-color: #F5F5F5;
+    border: none;
+    border-radius: 5px;
+    padding: 12px;
+    width: 95%;
+    color: #627081;
+}
